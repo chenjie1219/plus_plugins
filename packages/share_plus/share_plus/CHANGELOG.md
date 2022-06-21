@@ -1,3 +1,24 @@
+## 4.0.9
+
+- iOS: Fix image file names not preserved
+
+## 4.0.8
+
+- iOS: Fix 'Save Image' option not showing
+
+## 4.0.7
+
+- Add documentation iPad
+
+## 4.0.6
+
+- iOS: Fix file names not preserved and poor previews for files
+
+## 4.0.5
+
+- Update dependencies
+- Fix analyzer warnings
+
 ## 4.0.4
 
 - iOS: Fix subject not working when sharing raw url or files via email
